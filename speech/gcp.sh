@@ -1,6 +1,7 @@
 #! bin/bash
 
 git clone https://github.com/GoogleCloudPlatform/golang-samples.git
+brew install sox
 sox
 clear
 
